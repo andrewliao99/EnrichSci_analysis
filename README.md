@@ -3,7 +3,7 @@
 This repository contains analysis notebooks and monocle CellDataSet objects from EnrichSci profiling of young and aged mouse brain oligodendroytes.
 
 ## Usage
-Notebooks contain key downstream analyses used in the EnrichSci paper. Key Monocle CellDataSet objects are provided on Zenodo at DOI .
+Notebooks contain key downstream analyses used in the EnrichSci paper. Key Monocle CellDataSet objects are provided on Zenodo at 10.5281/zenodo.15393823.
 
 OL_DE_analysis.ipynb performs DE analysis to identify and plot DE genes and exons for oligodendrocyte subtypes MOL2 and MOL5/6.
 cds_olg_gene_exon.rds, which contains both gene and exon counts, is used in this notebook.
