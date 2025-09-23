@@ -11,4 +11,4 @@ cds_olg_gene_exon.rds, which contains both gene and exon counts, is used in this
 OL_density_plots.ipynb utilizes a modified miloR pipeline to generate cell neighborhoods, classify them as non-enriched, young-enriched, or aged-enriched, and plot the density of these neighborhoods.
 cds_olg.rds, which contains only gene counts, is used in this notebook.
 
-OL_DEE_Pfam_mapping.ipynb maps DEEs from MOL2 to their associated Pfam domains. DE_exons_MOL2 contains DEEs for MOL2 and is provided in Supplementary Table 3.
+OL_DEE_Pfam_mapping.ipynb maps DEEs from MOL2 to their associated Pfam domains. This notebook utilizes the dataframe DE_exons_MOL2, which contains DEEs for MOL2 and is provided in Supplementary Table 3.
